@@ -1,19 +1,19 @@
-# Configs
+# configs
 
-Personal collection of configuration files and dotfiles.
+Personal configuration files and dotfiles.
 
 ## Contents
 
-- Editor settings (VS Code, Vim)
-- Shell aliases and functions
-- Git config and templates
-- Misc tooling preferences
+- Shell settings
+- Editor configs
+- Git aliases
+- Misc snippets
 
 ## Usage
 
-Clone and symlink or copy what you need. Each subdirectory has its own readme where applicable.
+Symlink or copy what you need. This repo is a reference, not a full setup script.
 
 ## Notes
 
-- Tested on macOS and Ubuntu (WSL)
-- Feel free to adapt for your own setup
+- Tested on macOS and Linux (WSL)
+- Keep secrets out of tracked files
